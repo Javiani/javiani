@@ -2,7 +2,6 @@
 
 # Eduardo Ottaviani Aragão
 
-### Front-end Engineer · Open Source Creator · Technical Writer
 ### Front-end Engineer · Open-source Creator · Technical Writer
 
 Construo interfaces que continuam simples mesmo quando o produto deixa de ser.
